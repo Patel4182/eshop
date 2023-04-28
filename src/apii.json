@@ -1,0 +1,315 @@
+{
+    "status": true,
+    "data": {
+        "message": "Products fetched successfully",
+        "products": [
+            {
+                "id": "14c1b116-eb78-452c-8fd3-153ae9e89ce4",
+                "title": "Chips",
+                "price": 754,
+                "quantity": 386,
+                "categoryId": "9e5e051d-b4a6-4398-ad19-fd117b1425ea",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "9e5e051d-b4a6-4398-ad19-fd117b1425ea",
+                    "title": "fragrances",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "ffe166ab-f6e9-4e21-9689-ba7e1b2ced09",
+                "title": "Cheese",
+                "price": 730,
+                "quantity": 323,
+                "categoryId": "c927a48b-793c-418a-b5e6-ef3020a85d68",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "c927a48b-793c-418a-b5e6-ef3020a85d68",
+                    "title": "women-jewelry",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "2b375c57-5516-4ed2-a79a-419ee401ff76",
+                "title": "Sausages",
+                "price": 414,
+                "quantity": 656,
+                "categoryId": "075e21cc-d8e7-4cab-bd61-a280dcffb442",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "075e21cc-d8e7-4cab-bd61-a280dcffb442",
+                    "title": "women-dresses",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "2b1ab912-e081-4369-876e-de637a9e3aa7",
+                "title": "Gloves",
+                "price": 667,
+                "quantity": 625,
+                "categoryId": "94495dff-4593-4314-99f6-5e3434ee24a0",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "94495dff-4593-4314-99f6-5e3434ee24a0",
+                    "title": "skincare",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "2a3030b8-5003-4b29-a999-bf16b6f72453",
+                "title": "Fish",
+                "price": 161,
+                "quantity": 747,
+                "categoryId": "a3811281-fe1d-4ddb-a6be-1f3643937003",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "a3811281-fe1d-4ddb-a6be-1f3643937003",
+                    "title": "smartphones",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "22309bb0-3de2-48ec-9b44-8a6f80c08ce1",
+                "title": "Ball",
+                "price": 444,
+                "quantity": 754,
+                "categoryId": "ac60520c-4154-4e5f-a091-a18de732ed95",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "ac60520c-4154-4e5f-a091-a18de732ed95",
+                    "title": "women-watches",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "21e0536b-a126-483b-a260-d297f26c2701",
+                "title": "Salad",
+                "price": 700,
+                "quantity": 45,
+                "categoryId": "94495dff-4593-4314-99f6-5e3434ee24a0",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "94495dff-4593-4314-99f6-5e3434ee24a0",
+                    "title": "skincare",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "1b58a653-f70c-4d85-aac6-6c6a36dd93ba",
+                "title": "Car",
+                "price": 430,
+                "quantity": 765,
+                "categoryId": "94495dff-4593-4314-99f6-5e3434ee24a0",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "94495dff-4593-4314-99f6-5e3434ee24a0",
+                    "title": "skincare",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "192bf478-36cc-45c9-b889-45d433a0a541",
+                "title": "Fish",
+                "price": 125,
+                "quantity": 985,
+                "categoryId": "a3811281-fe1d-4ddb-a6be-1f3643937003",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "a3811281-fe1d-4ddb-a6be-1f3643937003",
+                    "title": "smartphones",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "17bc59f2-38fc-4069-b642-03a3d039cf32",
+                "title": "Computer",
+                "price": 228,
+                "quantity": 494,
+                "categoryId": "1cc1a890-b585-4788-952f-bedc2a378a1d",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "1cc1a890-b585-4788-952f-bedc2a378a1d",
+                    "title": "tops",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "1651bfcf-4e21-41fa-8db0-5f6253a4ae90",
+                "title": "Tuna",
+                "price": 562,
+                "quantity": 885,
+                "categoryId": "0917cd20-0b31-4375-81c3-59c256b348ae",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "0917cd20-0b31-4375-81c3-59c256b348ae",
+                    "title": "furniture",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "0000f1e3-da57-4192-8d66-cde89a795fdb",
+                "title": "Gloves",
+                "price": 533,
+                "quantity": 403,
+                "categoryId": "a618eb9b-db66-4faf-a48b-60d45ad03066",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "a618eb9b-db66-4faf-a48b-60d45ad03066",
+                    "title": "mens-shoes",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "1196ebb7-7501-4157-96c4-ec14252d82f0",
+                "title": "Ball",
+                "price": 354,
+                "quantity": 531,
+                "categoryId": "58ad95ee-61b2-4ef1-a0d9-9f63127c8d8b",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "58ad95ee-61b2-4ef1-a0d9-9f63127c8d8b",
+                    "title": "home-decoration",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "0f04fcbf-f077-4589-87d2-820f70ca9165",
+                "title": "Keyboard",
+                "price": 900,
+                "quantity": 601,
+                "categoryId": "2cd35fd6-8860-4ca7-8fd3-7fd1d19699bd",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "2cd35fd6-8860-4ca7-8fd3-7fd1d19699bd",
+                    "title": "laptops",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "0db1657b-0039-4a11-8728-ce69a4958d75",
+                "title": "Pants",
+                "price": 106,
+                "quantity": 199,
+                "categoryId": "01c3f1b4-b04b-41df-ac66-a284c4dc93a9",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "01c3f1b4-b04b-41df-ac66-a284c4dc93a9",
+                    "title": "mens-watches",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "0d95d8ea-b143-4de1-ba72-82e7d60c97b9",
+                "title": "Pants",
+                "price": 463,
+                "quantity": 400,
+                "categoryId": "1cc1a890-b585-4788-952f-bedc2a378a1d",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "1cc1a890-b585-4788-952f-bedc2a378a1d",
+                    "title": "tops",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "0ae8f6d2-f846-4c46-882d-97e90ace8a9b",
+                "title": "Chips",
+                "price": 817,
+                "quantity": 913,
+                "categoryId": "01c3f1b4-b04b-41df-ac66-a284c4dc93a9",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "01c3f1b4-b04b-41df-ac66-a284c4dc93a9",
+                    "title": "mens-watches",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "07b41da3-cd69-40a5-afc0-6f832d30d4bb",
+                "title": "Car",
+                "price": 695,
+                "quantity": 870,
+                "categoryId": "d79baf0c-3042-4179-98ad-a313d0120af3",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "d79baf0c-3042-4179-98ad-a313d0120af3",
+                    "title": "women-bags",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "0694f109-fe2f-47a2-a477-cfb8f45d73c8",
+                "title": "Sausages",
+                "price": 234,
+                "quantity": 592,
+                "categoryId": "1cc1a890-b585-4788-952f-bedc2a378a1d",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "1cc1a890-b585-4788-952f-bedc2a378a1d",
+                    "title": "tops",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            },
+            {
+                "id": "06764c62-3263-4fa3-b851-449b23be1ebd",
+                "title": "Salad",
+                "price": 973,
+                "quantity": 901,
+                "categoryId": "075e21cc-d8e7-4cab-bd61-a280dcffb442",
+                "createdAt": "2022-10-17T11:08:42.978Z",
+                "updatedAt": "2022-10-17T11:08:42.978Z",
+                "category": {
+                    "id": "075e21cc-d8e7-4cab-bd61-a280dcffb442",
+                    "title": "women-dresses",
+                    "createdAt": "2022-10-17T11:08:42.854Z",
+                    "updatedAt": "2022-10-17T11:08:42.854Z"
+                }
+            }
+        ],
+        "pagination": {
+            "total": 100,
+            "per_page": 20,
+            "current_page": 1,
+            "last_page": 5
+        },
+        "success": true
+    }
+}
